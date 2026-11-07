@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-search",
+  "name": "io.github.itsryanarmani/agentic-search",
   "description": "Search for documents, sheets, slides, tables, tasks, forms, boards, files and comments, filtered by what the caller may read.",
   "version": "0.8.1",
   "repository": {
